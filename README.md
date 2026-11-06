@@ -28,3 +28,19 @@ Para compilar e executar este projeto, você precisará de:
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd nome-do-repositorio
+```
+3. Compile o código-fonte:
+
+```bash
+
+gcc main.c -o calculadora-medias
+```
+4. Execute o programa:
+
+ ```bash
+./calculadora-medias.exe
